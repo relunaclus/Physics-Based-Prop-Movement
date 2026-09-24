@@ -15,3 +15,15 @@ The base prop will likely be a simple cube-shaped prop that is useful for a vari
 ## Targeted Platform and Hardware
 
 The game would most likely be ideal on PC with a keyboard and mouse, though realistically due to its simplistic nature and controls, it would likely still work well enough with a controller or on a console. I also think that the game might work well as a VR game as it has a similar "pick-up props by pointing at them" functionality to already existing VR games such as Job Simulator.
+
+# Adaptation
+
+The paper that I drew stated:
+
+"We are pivoting to wearables, your game must now be perfectly playable on a 1.5 inch smartwatch screen."
+
+## Altering the concept
+
+To alter the concept to fit the paper's request, I would alter the game to operate entirely within a 2D space as a level-based game. Each level will have set "movable" objects which the player can move by using the 2 buttons and the "crown", the wheel on the side of a smart watch.
+
+One button will be used to select which object the player has selected by cycling to the next one every time it is pressed. One will be used to select whether the object is moved horizontally or vertically, and rotating the crown will be used to actually move the object. The player can then play the level by pressing down the crown.
